@@ -36,8 +36,14 @@ The project was developed using **Python** and the following libraries:
 ## 📸 Sample Visualizations
 Here are some of the visualizations created during the analysis:
 
+![Age Group Analysis](https://github.com/AVYAYAWASTHI-010/Diwali-Sales-Analysis/blob/main/1.jpg)
+*Analysis of purchases by different age groups*
 
+![Gender Based Sales](https://github.com/AVYAYAWASTHI-010/Diwali-Sales-Analysis/blob/main/2.jpg)
+*Comparison of sales between male and female customers*
 
+![Product Category Sales](https://github.com/AVYAYAWASTHI-010/Diwali-Sales-Analysis/blob/main/4.jpg)
+*Sales distribution across various product categories*
 
 ## 🚀 How to Run This Project
 Follow these steps to run the analysis on your local machine:
@@ -54,5 +60,3 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 
 # 4️⃣ Run the notebook cells step-by-step
-
-
